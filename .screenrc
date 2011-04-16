@@ -1,0 +1,13 @@
+escape ^aa 
+startup_message off
+vbell on
+msgwait 2
+defscrollback 5000
+defutf8 on
+shell bash
+shelltitle "$ |terminal"
+
+hardstatus alwayslastline "%{= w}%-w%{= Bk} %n %t %{-}%+w %-="
+
+screen -t "irssi"          0 bash
+screen -t "terminal"    1 bash
