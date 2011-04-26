@@ -1,7 +1,7 @@
 -- {{{ License
 -- rc.lua, works with awesome 3.4.9 (Arch Linux)
--- author: nblock <nblock [at] archlinux.us>
--- based on multiple rc.lua files from different awesome users
+-- author: s922183t <s922183t [at] gmail.com>
+-- based on nblock's rc.lua.
 --
 -- This work is licensed under the Creative Commons Attribution Share
 -- Alike License: http://creativecommons.org/licenses/by-sa/3.0/
@@ -9,7 +9,7 @@
 
 -- {{{ Load libraries
 -- Standard awesome library
-require("awful")
+require("awful")␏
 require("awful.autofocus")
 require("awful.rules")
 -- Theme handling library
