@@ -8,5 +8,5 @@ Clean
 
 Dirty
 =============
-![Arch 2011-04-26](http://ompldr.org/vOGZrag)
-<p>[Full](http://ompldr.org/vOGZrag)</p>
+<a href='http://ompldr.org/vOGZrag'>![Arch 2011-04-26](http://ompldr.org/vOGZrag)</a>
+<p><a href='http://ompldr.org/vOGZrag'>[Full]</a></p>
